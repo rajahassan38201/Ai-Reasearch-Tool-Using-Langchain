@@ -1,7 +1,5 @@
 # Ai-Reasearch-Tool-Using-Langchain
 
-Certainly! Here's a **professional README** for your **AI Research Tool LangChain Application**, written in simple and professional English:
-
 ---
 
 # 🧠 AI Research Tool – LangChain Application
